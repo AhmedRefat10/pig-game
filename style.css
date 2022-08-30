@@ -168,3 +168,9 @@ main {
 .hidden {
   display: none;
 }
+
+@media (max-width: 600px) {
+  html {
+    font-size: 34.5%;
+  }
+}
